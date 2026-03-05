@@ -21,6 +21,9 @@ migrate_working_dir/
 # VS Code
 .vscode/
 
+# GitHub Copilot / AI tooling (not part of the project)
+.github/
+
 # Flutter/Dart/Pub related
 **/doc/api/
 **/ios/Flutter/.last_build_id
